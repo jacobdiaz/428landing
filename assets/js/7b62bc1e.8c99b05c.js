@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_428_landing=self.webpackChunk_428_landing||[]).push([[869],{6827:function(a){a.exports=JSON.parse('{"allTagsPath":"/428landing/blog/tags","slug":"/428landing/blog/tags/facebook","name":"facebook","count":1,"permalink":"/428landing/blog/tags/facebook"}')}}]);
