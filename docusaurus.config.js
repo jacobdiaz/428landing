@@ -23,7 +23,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           docs: {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
-            editUrl: 'https://https://github.com/jacobdiaz/428landing/',
+            editUrl: 'https://https://github.com/jacobdiaz/428landing/tree/main/',
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
