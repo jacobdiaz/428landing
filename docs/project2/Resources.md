@@ -2,11 +2,13 @@
 sidebar_position: 3
 ---
 
-> Bellow is a listing of the source for any assets (models, textures, sounds, music) that I did not create myself. The models created by myself include the **Lions Cage**, **Crate Boxes**, **Ticket Box**, **Lion Button**,and **Tight Rope fixure**.
+> Bellow is a listing of the source for any assets (models, textures, sounds, music).
 
 ## 🐘 Models
 
 ![Screen Shot 2021-10-17 at 8 03 53 PM](https://user-images.githubusercontent.com/54045615/137652288-d1baba44-ba2b-4647-a6da-bbcffb672353.png)
+
+> _Models Downloaded From Online_
 
 1. **Unicycle** - https://sketchfab.com/3d-models/monociclo-628d7fbd4d184796b51c4364114c5c10#download
 2. **Elephant** - https://www.cgtrader.com/items/1008504/download-page
@@ -17,12 +19,22 @@ sidebar_position: 3
 7. **Handrail** - https://www.cgtrader.com/items/2626770/download-page
 8. **Spotlight** - https://www.cgtrader.com/items/2325026/download-page
 9. **Stage** - https://free3d.com/3d-model/stage-60639.html
-10. **Hot Dogs** - https://www.turbosquid.com/3d-models/food-3d-model-1421741
+10. **Hot Dogs** ✋ - https://www.turbosquid.com/3d-models/food-3d-model-1421741
 11. **Mask** - https://free3d.com/3d-model/gatto-rombi-mask-v1--731023.html
-12. **Sword** - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-weapons-71680
+12. **Sword** ✋ - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-weapons-71680
 13. **Dagger** - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-weapons-71680
 14. **Bear** - https://123free3dmodels.com/circus-bear-with-ball-8289
 15. **Character** - https://assetstore.unity.com/packages/3d/characters/humanoids/character-elf-114445
+
+> _Models I Created_
+
+1. **Lions Cage**
+2. **Crate Boxes ✋**
+3. **Ticket Box**
+4. **Lion Button**
+5. **Tight Rope fixure**
+6. **Tickets** ✋
+7. **Circus Balls** ✋
 
 ## ✋ Grabbable Objects
 
@@ -33,7 +45,7 @@ sidebar_position: 3
 ## 🔈 Sounds
 
 1. **Elephant** - https://freesound.org/people/Jasher70/sounds/139052/
-2. Audience - https://freesound.org/people/jayfrosting/sounds/333404/
+2. **Audience** - https://freesound.org/people/jayfrosting/sounds/333404/
 3. **Lion** - https://freesound.org/people/soundbytez/sounds/97380/
 
 ## 📷 Images / Material
