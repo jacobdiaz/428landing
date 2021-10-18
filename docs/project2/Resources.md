@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-> Bellow is a listing of the source for any assets (models, textures, sounds, music) that I did not create myself. The models created by myself include the **Lions Cage**, **Crate Boxes**, **Ticket Box**, **Lion Button**,and **Tight Rope fixure**. _Grabbable objects_ include the Sword, Hot Dogs, Ticket, and Wood Boxes. ![Screen Shot 2021-10-17 at 8 35 10 PM](https://user-images.githubusercontent.com/54045615/137656117-0f9d3653-51fa-40f7-b654-8d7bf74d117c.png)
+> Bellow is a listing of the source for any assets (models, textures, sounds, music) that I did not create myself. The models created by myself include the **Lions Cage**, **Crate Boxes**, **Ticket Box**, **Lion Button**,and **Tight Rope fixure**.
 
-## Models
+## 🐘 Models
 
 ![Screen Shot 2021-10-17 at 8 03 53 PM](https://user-images.githubusercontent.com/54045615/137652288-d1baba44-ba2b-4647-a6da-bbcffb672353.png)
 
@@ -24,13 +24,19 @@ sidebar_position: 3
 14. **Bear** - https://123free3dmodels.com/circus-bear-with-ball-8289
 15. **Character** - https://assetstore.unity.com/packages/3d/characters/humanoids/character-elf-114445
 
-## Sounds
+## ✋ Grabbable Objects
+
+> _Grabbable objects_ include the Sword, Hot Dogs, Ticket, Circus Balls, and Wood Boxes.
+
+![Screen Shot 2021-10-17 at 8 42 16 PM](https://user-images.githubusercontent.com/54045615/137656535-8677d6f8-662f-4051-8a53-d4cbff313df2.png)
+
+## 🔈 Sounds
 
 1. **Elephant** - https://freesound.org/people/Jasher70/sounds/139052/
 2. Audience - https://freesound.org/people/jayfrosting/sounds/333404/
 3. **Lion** - https://freesound.org/people/soundbytez/sounds/97380/
 
-## Images / Material
+## 📷 Images / Material
 
 ![Screen Shot 2021-10-17 at 8 12 28 PM](https://user-images.githubusercontent.com/54045615/137652732-1dcd2baf-69a3-4291-b7b3-f35343e166ca.png)
 
