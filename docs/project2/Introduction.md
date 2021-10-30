@@ -17,7 +17,7 @@ sidebar_position: 1
 
 ### Getting Started
 
-- Follow the link to the [Github Repository](https://github.com/jacobdiaz/CS428-Project2-ScareCo) to build this project yourself! You can also download the VR App to run on an Oculus [here](https://drive.google.com/drive/folders/1_2iv7JXMglQwUAsDhTrkLjJ_zZFKUpKv?usp=sharing), or download the Desktop app [here](https://drive.google.com/drive/folders/1Mct9CC4WvWKWLT_aXTaPQ-2ZZqdKg-gh?usp=sharing).
+- Follow the link to the [Github Repository](https://github.com/jacobdiaz/CS428-Project2-ScareCo) to build this project yourself! You can also download the .apk file to run on an Oculus [here](https://drive.google.com/file/d/1QwcgLKSkmgPvg6urwndhYC28OnfmH3PO/view?usp=sharing).
 
 * Download this project repository to your local machine using the following method:
 
